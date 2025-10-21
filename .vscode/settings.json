@@ -1,6 +1,9 @@
 {
     "files.associations": {
         "unistd.h": "c",
-        "utsname.h": "c"
+        "utsname.h": "c",
+        "sysinfo.h": "c",
+        "kernel.h": "c",
+        "types.h": "c"
     }
 }
