@@ -8,6 +8,8 @@
         "stat.h": "c",
         "stdlib.h": "c",
         "grp.h": "c",
-        "fcntl.h": "c"
+        "fcntl.h": "c",
+        "threads.h": "c",
+        "pthread.h": "c"
     }
 }
